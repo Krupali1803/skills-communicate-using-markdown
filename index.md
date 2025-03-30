@@ -26,3 +26,9 @@ var myVar = "Hello, world!";
 ``` python
 print("Hello, world!")
 ```
+
+# Step: 4 Make a task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
